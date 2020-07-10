@@ -8,7 +8,7 @@ Discord giveaway bot using **[Discord-Giveaways](https://npmjs.com/discord-givea
 **[Click Me](https://discord.gg/VQwb8Mc "Join GiveawayBot Discord Server")**
 
 # Command Prefix
-`g?` or `G?` or `@GiveawayBot`
+`g?` or `G?` or `@GiveawayBot` or `?`
 
 # Commands
 ## Developer
@@ -42,3 +42,4 @@ Discord giveaway bot using **[Discord-Giveaways](https://npmjs.com/discord-givea
 - Edit .env.example to .env and fill in the token of your bot
 - Go to config.js and put in your discord ID to have access to eval, exec etc.
 - Run index.js
+# WE WONT PROVIDE SUPPORT FOR SELF HOSTING. EVERYTHING YOU DO IS AT YOUR OWN RISK.
