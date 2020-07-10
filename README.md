@@ -33,3 +33,8 @@ Discord giveaway bot using **[Discord-Giveaways](https://npmjs.com/discord-givea
 
 # Giveaway
 ![image](https://i.imgur.com/q9hLwJ4.png)
+
+# Self hosting
+- Edit the .evn.example to .env and fill in the token of your bot
+- in config.js put your ID in bot admins
+- run index.js
