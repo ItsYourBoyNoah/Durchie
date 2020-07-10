@@ -28,7 +28,7 @@ Discord giveaway bot using **[Discord-Giveaways](https://npmjs.com/discord-givea
 - reroll : Re-roll giveaway [ EG: g?reroll <giveaway_id> ]
 
 # Help Menu
-https://imgur.com/a/o8GGCop
+![image](https://imgur.com/a/o8GGCop)
 
 https://gyazo.com/ad90f6cb86441e625e0fc5c98a93e4c4
 
