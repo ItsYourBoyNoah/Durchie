@@ -17,7 +17,7 @@ class Help extends Command {
                 .setTitle(`Commands`)
                 .setThumbnail(this.client.user.displayAvatarURL({ format: "png" }))
                 .setDescription(
-                    `Use **${this.client.prefix}help <command>** for more info.`
+                    `Use **${this.client.prefix}help <command>** for more info. Made by xNo_ah#0001`
                 )
                 .addField(
                     `General [${
