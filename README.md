@@ -37,8 +37,8 @@ https://gyazo.com/1ffa579a71a3111c17dbbed55af27e93
 
 # Self Hosting
 
-Download the zip
-run npm install inside the folder
-edit .env.example to .env and fill in the token of your bot
-go to config.js and put in your discord ID to have access to eval, exec etc.
-Run index.js
+- Download the zip
+- Run npm install inside the folder
+- Edit .env.example to .env and fill in the token of your bot
+- Go to config.js and put in your discord ID to have access to eval, exec etc.
+- Run index.js
