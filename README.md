@@ -28,7 +28,7 @@ Discord giveaway bot using **[Discord-Giveaways](https://npmjs.com/discord-givea
 - reroll : Re-roll giveaway [ EG: g?reroll <giveaway_id> ]
 
 # Help Menu
-https://camo.githubusercontent.com/ba9dd729105b755810377ac8830884ac0a80dd8e/68747470733a2f2f692e6779617a6f2e636f6d2f36653366333833313537653365316637396231663736373766373837366533662e706e67
+![image](https://camo.githubusercontent.com/ba9dd729105b755810377ac8830884ac0a80dd8e/68747470733a2f2f692e6779617a6f2e636f6d2f36653366333833313537653365316637396231663736373766373837366533662e706e67)
 
 https://gyazo.com/ad90f6cb86441e625e0fc5c98a93e4c4
 
