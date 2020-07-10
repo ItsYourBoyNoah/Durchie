@@ -28,11 +28,11 @@ Discord giveaway bot using **[Discord-Giveaways](https://npmjs.com/discord-givea
 - reroll : Re-roll giveaway [ EG: g?reroll <giveaway_id> ]
 
 # Help Menu
-!(https://gyazo.com/6e3f383157e3e1f79b1f7677f7876e3f)
-!(https://gyazo.com/ad90f6cb86441e625e0fc5c98a93e4c4)
+https://gyazo.com/6e3f383157e3e1f79b1f7677f7876e3f
+https://gyazo.com/ad90f6cb86441e625e0fc5c98a93e4c4
 
 # Giveaway
-![image](https://gyazo.com/1ffa579a71a3111c17dbbed55af27e93)
+https://gyazo.com/1ffa579a71a3111c17dbbed55af27e93
 
 # Self hosting
 - Edit the .evn.example to .env and fill in the token of your bot
