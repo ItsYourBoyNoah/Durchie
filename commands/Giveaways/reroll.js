@@ -17,7 +17,7 @@ class Reroll extends Command {
         if (!id) return message.channel.send("❌ | Please provide a giveaway id.");
         let hasGiveaway = this.client.GiveawayManager.giveaways.find((g) => g.messageID === id);
         if (!hasGiveaway) {
-            return message.channel('Unable to find a giveaway with id `' + id + '`');
+            return message.channel.send('Unable to find a giveaway with id `' + id + '`');
         }
         this.client.GiveawayManager.reroll(hasGiveaway.messageID, {
             messages: {
