@@ -1,14 +1,14 @@
-# GiveawayBot
-Discord giveaway bot using **[Discord-Giveaways](https://npmjs.com/discord-giveaways)** package.
+# GiveawayBoat
+Discord giveaway bot using **[discord-giveaways](https://npmjs.com/discord-giveaways)** package.
 
 # Invite
-[Click Me](https://discord.com/api/oauth2/authorize?client_id=720998947270951002&permissions=8&scope=bot "GiveawayBot Invite")
+[Click Me](https://discordapp.com/api/oauth2/authorize?client_id=685859869638918189&permissions=8&scope=bot "GiveawayBoat Invite")
 
 # Support Server
-**[Click Me](https://discord.gg/VQwb8Mc "Join GiveawayBot Discord Server")**
+**[Click Me](https://discord.gg/5qN9fsF "Join GiveawayBoat Discord Server")**
 
 # Command Prefix
-`g?` or `G?` or `@GiveawayBot`
+`g?` or `G?` or `@GiveawayBoat`
 
 # Commands
 ## Developer
@@ -28,14 +28,8 @@ Discord giveaway bot using **[Discord-Giveaways](https://npmjs.com/discord-givea
 - reroll : Re-roll giveaway [ EG: g?reroll <giveaway_id> ]
 
 # Help Menu
-https://gyazo.com/6e3f383157e3e1f79b1f7677f7876e3f
-
-https://gyazo.com/ad90f6cb86441e625e0fc5c98a93e4c4
+![image](https://i.imgur.com/8UH4KQd.png?1)
+![image](https://i.imgur.com/6hdq8Sw.png)
 
 # Giveaway
-https://gyazo.com/1ffa579a71a3111c17dbbed55af27e93
-
-# Self hosting
-- Edit the .evn.example to .env and fill in the token of your bot
-- in config.js put your ID in bot admins
-- run index.js
+![image](https://i.imgur.com/q9hLwJ4.png)
