@@ -34,12 +34,3 @@ Discord giveaway bot using **[Discord-Giveaways](https://npmjs.com/discord-givea
 
 # Giveaway
 ![image](https://camo.githubusercontent.com/516077c1d2513d6a573865bdead87f390c8c358f/68747470733a2f2f692e6779617a6f2e636f6d2f31666661353739613731613331313163313764626265643535616632376539332e706e67)
-
-# Self Hosting
-
-- Download the zip
-- Run npm install inside the folder
-- Edit .env.example to .env and fill in the token of your bot
-- Go to config.js and put in your discord ID to have access to eval, exec etc.
-- Run index.js
-# WE WONT PROVIDE SUPPORT FOR SELF HOSTING. EVERYTHING YOU DO IS AT YOUR OWN RISK.
