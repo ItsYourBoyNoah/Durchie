@@ -36,5 +36,6 @@ Discord giveaway bot using **[Discord-Giveaways](https://npmjs.com/discord-givea
 ![image](https://camo.githubusercontent.com/516077c1d2513d6a573865bdead87f390c8c358f/68747470733a2f2f692e6779617a6f2e636f6d2f31666661353739613731613331313163313764626265643535616632376539332e706e67)
 
 
-<script src="https://discordbotlist.com/widget/index.js" async></script>
-<dbl-widget bot-id="bot-720998947270951002"></dbl-widget>
+<a href="https://discordbotlist.com/bots/giveaway-bot-3212" >
+  <script src="https://discordbotlist.com/widget/index.js" async></script>
+<dbl-widget bot-id="bot-giveaway-bot-3212"></dbl-widget>
