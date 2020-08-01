@@ -19,6 +19,8 @@ Discord giveaway bot using **[Discord-Giveaways](https://npmjs.com/discord-givea
 - ping : Get bot latency [ EG: g?ping ]
 - uptime : Get bot uptime [ EG: g?uptime ]
 - help : Get help menu  [ EG: g?help | g?help <command> ]
+- stats: Show the bot's statistics [ EG: g?stats ]
+- invite: Show an invite for the bot and the support server [EG: g?invite ]
 
 ## Giveaways
 - create : create giveaway [ EG: g?create 1d 1w Discord Nitro ]
