@@ -11,7 +11,6 @@
 `g?` or `G?` or `@GiveawayBot` or `?`
 
 # Giveaway Commands (More can be found by running g?help)
-support server [EG: g?invite ]
 
 ## Giveaways
 - create : create giveaway [ EG: g?create 1d 1w Discord Nitro ]
