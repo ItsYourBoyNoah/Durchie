@@ -1,5 +1,5 @@
 # GiveawayBot
-Discord giveaway bot using **[Discord-Giveaways](https://npmjs.com/discord-giveaways)** package.
+
 
 # Invite
 [Click Me](https://discord.com/api/oauth2/authorize?client_id=720998947270951002&permissions=8&scope=bot "GiveawayBot Invite")
@@ -10,17 +10,8 @@ Discord giveaway bot using **[Discord-Giveaways](https://npmjs.com/discord-givea
 # Command Prefix
 `g?` or `G?` or `@GiveawayBot` or `?`
 
-# Commands
-## Developer
-- eval : Evaluates arbitrary JavaScript [ EG: g?eval <JavaScript_Code> ]
-- exec : Executes a command on terminal [ EG: g?exec <command> ]
-
-## General
-- ping : Get bot latency [ EG: g?ping ]
-- uptime : Get bot uptime [ EG: g?uptime ]
-- help : Get help menu  [ EG: g?help | g?help <command> ]
-- stats: Show the bot's statistics [ EG: g?stats ]
-- invite: Show an invite for the bot and the support server [EG: g?invite ]
+# Giveaway Commands (More can be found by running g?help)
+support server [EG: g?invite ]
 
 ## Giveaways
 - create : create giveaway [ EG: g?create 1d 1w Discord Nitro ]
