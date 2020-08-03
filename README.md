@@ -20,9 +20,9 @@
 - reroll : Re-roll giveaway [ EG: g?reroll <giveaway_id> ]
 
 # Help command (Note this is an old picture not all commands are included)
-![image](https://camo.githubusercontent.com/ba9dd729105b755810377ac8830884ac0a80dd8e/68747470733a2f2f692e6779617a6f2e636f6d2f36653366333833313537653365316637396231663736373766373837366533662e706e67)
+![image](https://user-images.githubusercontent.com/66128227/89187034-59bb7900-d5a5-11ea-823a-204fbd933fc9.png)
 
-![image](https://camo.githubusercontent.com/68805d17772da3ddc24180fcd0867dd072509920/68747470733a2f2f692e6779617a6f2e636f6d2f61643930663663623836343431653632356530666335633938613933653463342e706e67)
+![image](https://user-images.githubusercontent.com/66128227/89187111-7788de00-d5a5-11ea-8e8d-a5175900dca3.png)
 
 # How a giveaway looks
-![image](https://camo.githubusercontent.com/516077c1d2513d6a573865bdead87f390c8c358f/68747470733a2f2f692e6779617a6f2e636f6d2f31666661353739613731613331313163313764626265643535616632376539332e706e67)
+![image](https://user-images.githubusercontent.com/66128227/89187154-8bccdb00-d5a5-11ea-9026-679b7f09c4bb.png)
