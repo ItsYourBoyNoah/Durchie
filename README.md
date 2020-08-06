@@ -26,3 +26,8 @@
 
 # How a giveaway looks
 ![image](https://user-images.githubusercontent.com/66128227/89187154-8bccdb00-d5a5-11ea-9026-679b7f09c4bb.png)
+
+
+<a href="https://top.gg/bot/720998947270951002" >
+  <img src="https://top.gg/api/widget/720998947270951002.svg" alt="Giveaway Bot" />
+</a>
