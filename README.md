@@ -1,16 +1,16 @@
-# GiveawayBot
+# Durchie
 
 
 # Invite
 [Click Me](https://discord.com/api/oauth2/authorize?client_id=720998947270951002&permissions=8&scope=bot "GiveawayBot Invite")
 
 # Support Server
-**[Click Me](https://discord.gg/VQwb8Mc "Join GiveawayBot Discord Server")**
+**[Click Me](https://discord.gg/VQwb8Mc "Join Durchie's Discord Server")**
 
 # Command Prefix
-`g?` or `G?` or `@GiveawayBot` or `?`
+`g?` or `G?` or `?`
 
-# Giveaway Commands (More can be found by running g?help)
+# Commands (More can be found by running g?help)
 
 ## Giveaways
 - create : create giveaway [ EG: g?create 1d 1w Discord Nitro ]
@@ -24,8 +24,6 @@
 
 ![image](https://user-images.githubusercontent.com/66128227/89187111-7788de00-d5a5-11ea-8e8d-a5175900dca3.png)
 
-# How a giveaway looks
-![image](https://user-images.githubusercontent.com/66128227/89187154-8bccdb00-d5a5-11ea-9026-679b7f09c4bb.png)
 
 
 <a href="https://top.gg/bot/720998947270951002" >
