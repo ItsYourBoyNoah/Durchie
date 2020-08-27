@@ -2,7 +2,7 @@
 
 
 # Invite
-[Click Me](https://discord.com/api/oauth2/authorize?client_id=720998947270951002&permissions=8&scope=bot "GiveawayBot Invite")
+[Click Me](https://discord.com/api/oauth2/authorize?client_id=720998947270951002&permissions=8&scope=bot "Durchie Invite")
 
 # Support Server
 **[Click Me](https://discord.gg/VQwb8Mc "Join Durchie's Discord Server")**
