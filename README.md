@@ -28,5 +28,5 @@
 
 
 <a href="https://voidbots.net/bot/720998947270951002" >
-  <img src="https://voidbots.net/api/embed/720998947270951002.svg" alt="Durchie" />
+  <img src="https://voidbots.net/api/embed/720998947270951002" alt="Durchie" />
 </a>
